@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Александр Курочкин](https://up.htmlacademy.ru/ecmascript/15/user/1792191).
-* Наставник: [Дмитрий Рябинин](https://up.htmlacademy.ru/ecmascript/15/user/id63289).
+* Наставник: [Дмитрий Рябинин](https://up.htmlacademy.ru/ecmascript/15/user/63289).
 
 ---
 
